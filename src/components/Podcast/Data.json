@@ -1,0 +1,44 @@
+ [
+    {
+        "id": 1,
+        "title": "How to Make Friends", 
+        "author": "Adeolu Adegbemi" ,
+        "image": "/images/hero.png",
+        "alt": "My first image",
+        "audio": "/audio/1.mp3"
+        
+    },
+
+    {
+        "id": 2,
+        "title": "How to Make New Friends", 
+        "author": "Adeolu Adegbemi",
+        "image": "/images/1.jpg",
+        "alt": "My second image" ,
+        "audio": "https://anchor.fm/adegbemi/episodes/Profitable-Startup-Kickstarter-Choosing-the-Business-Model-that-is-right-for-you-eihtrp"
+    },
+
+    {
+        "id": 3,
+        "title": "How to Make Friends", 
+        "author": "Adeolu Adegbemi" ,
+        "image": "/images/hero.png",
+        "alt": "My first image",
+        "audio": "https://anchor.fm/adegbemi/episodes/Profitable-Startup-Kickstarter-Choosing-the-Business-Model-that-is-right-for-you-eihtrp"
+        
+    },
+
+    {
+        "id": 4,
+        "title": "How to Make New Friends", 
+        "author": "Adeolu Adegbemi",
+        "image": "/images/1.jpg",
+        "alt": "My second image",
+        "audio": "https://anchor.fm/adegbemi/episodes/Profitable-Startup-Kickstarter-Choosing-the-Business-Model-that-is-right-for-you-eihtrp"
+        
+    }
+
+ ]
+
+
+ 

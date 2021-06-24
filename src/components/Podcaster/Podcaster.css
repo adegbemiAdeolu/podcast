@@ -1,0 +1,40 @@
+.podcasterContainer {
+    display: flex;
+    margin: 40px 5px 25px 40px;
+    align-items: center;
+    justify-content: left;
+}
+
+.podcasterImageContainer {
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.podcasterProfileContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.podcasterProfileContainer > h3 {
+    margin: 0 0 5px 0;
+    text-align: left;
+    color: rgb(161, 20, 161);
+    font-size: 1.2rem;
+    width: 100%;
+}
+
+.podcasterProfileContainer > p {
+    font-size: 0.7rem;
+    color: grey;
+}

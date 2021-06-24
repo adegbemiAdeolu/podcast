@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "avatar": "/images/1.jpg",
+        "name": "Ema Evidence",
+        "title": "Warner Media"
+    },
+
+    {
+        "id": 2,
+        "avatar": "/images/hero.png",
+        "name": "Wumi Adegbemi",
+        "title": "The Worship"
+    },
+
+    {
+        "id": 3,
+        "avatar": "/images/1.jpg",
+        "name": "Adeolu Adegbemi",
+        "title": "The Godcast"
+    },
+
+    {
+        "id": 4,
+        "avatar": "/images/hero.png",
+        "name": "Wumi Adegbemi",
+        "title": "The Worship"
+    }
+]
