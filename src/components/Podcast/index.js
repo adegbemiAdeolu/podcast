@@ -9,7 +9,7 @@ export default function Podcast() {
 
     return (
         <>
-        {episodes.map((item) =>(
+        {episodes.map((item) => (
             <div className='podcastContainer' key={item.id}>
                 <div className='imageContainer'>
                     <img src={item.image} alt={item.alt} />
